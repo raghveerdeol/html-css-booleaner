@@ -30,7 +30,6 @@ body{
     background-color: aqua;
 }
 .display{
-   
     background-image: url(../img/monitor.jpg);
 }
 .grafico{
@@ -41,4 +40,7 @@ body{
     height: 208px;
     color: white;
     font-size: 30px;
+}
+table{
+    border-spacing: 0;
 }
