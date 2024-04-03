@@ -22,3 +22,10 @@ body{
 .light-blu{
     color: rgb(16, 244, 244);
 }
+.dark-blu{
+    background-color: rgb(17, 17, 228);
+    color: white;
+}
+.celeste{
+    background-color: aqua;
+}
