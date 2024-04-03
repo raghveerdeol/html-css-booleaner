@@ -44,3 +44,8 @@ body{
 table{
     border-spacing: 0;
 }
+.tabelle-spazio{
+    padding-left: 10rem;
+    border: 1rem;
+    
+}
