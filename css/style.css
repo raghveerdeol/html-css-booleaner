@@ -29,18 +29,16 @@ body{
 .celeste{
     background-color: aqua;
 }
-#display{
-    width: 312px;
-    height: 208px;
+.display{
+   
     background-image: url(../img/monitor.jpg);
-    color: white;
-    font-size: 30px;
-    
 }
-#grafico{
+.grafico{
+    background-image: url(../img/graph.jpg);
+}
+.foto{
     width: 312px;
     height: 208px;
-    background-image: url(../img/graph.jpg);
     color: white;
     font-size: 30px;
 }
