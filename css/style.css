@@ -1,0 +1,10 @@
+.testata{
+    background-color: blue;
+    background-image: url(./img/pattern.png);
+    height: 350px;
+    width: auto;
+}
+
+.logo{
+    width: 3rem;
+}
